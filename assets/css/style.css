@@ -10,7 +10,6 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
 p {
     font-size: 16px;
 }
@@ -24,9 +23,8 @@ p {
     display: inline-block;
     font-size: 48px;
 }
-
 .header h1 .seo {
-    color: grey;
+    color: black;
 }
 .header div {
     padding-top: 15px;
@@ -58,6 +56,7 @@ p {
     float: right;
     margin-left: 25px;
 }
+<!--Begin main section styles-->
 .container {
     width: 75%;
     display: inline-block;
@@ -84,11 +83,12 @@ p {
 .search-engine-optimization img {
     max-height: 200px;
 }
-.benefits_sidebar {
+<!--Begin side bar styles-->
+.sidebar {
     margin-right: 20px;
     padding: 20px;
     clear: both;
-    float: left;
+    float: right;
     width: 25%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -105,6 +105,7 @@ p {
 .benefit-lead h2 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 36px;
 }
 .benefit-brand img,
 .benefit-cost img,
