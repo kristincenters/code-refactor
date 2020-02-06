@@ -13,6 +13,15 @@ a {
 p {
     font-size: 16px;
 }
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+/*begin header section styles*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,8 +32,9 @@ p {
     display: inline-block;
     font-size: 48px;
 }
+/*improved contrast of text logo for accessibilty*/
 .header h1 .seo {
-    color: black;
+    color: #070101;
 }
 .header div {
     padding-top: 15px;
@@ -48,15 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-<!--Begin main section styles-->
+/*begin main section styles*/
 .container {
     width: 75%;
     display: inline-block;
@@ -75,7 +77,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #2a607c;
     color: #ffffff;
 }
 .social-media-marketing img,
@@ -83,16 +85,16 @@ p {
 .search-engine-optimization img {
     max-height: 200px;
 }
-<!--Begin side bar styles-->
+/*begin sidebar styles*/
 .sidebar {
     margin-right: 20px;
     padding: 20px;
     clear: both;
     float: right;
-    width: 25%;
+    width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #2a607c;
 }
 .benefit-brand,
 .benefit-cost,
@@ -100,12 +102,12 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-.benefit-brand h2,
-.benefit-cost h2,
-.benefit-lead h2 {
+.benefit-brand h3,
+.benefit-cost h3,
+.benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
-    font-size: 36px;
+    font-size: 32px;
 }
 .benefit-brand img,
 .benefit-cost img,
@@ -120,6 +122,6 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-.footer h3 {
-    font-size: 20px;
+.footer h4 {
+    font-size: 24px;
 }
