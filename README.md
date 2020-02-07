@@ -1,14 +1,14 @@
 # Code Refactor
 
-##About:
+## About
 This code was refactored to meet accessibility standards and optimized for search engines. 
 
-##Technologies:
+## Technologies
 HTML, CSS
 
-##Resource:
-[Link to tota11y] (https://github.com/Khan/tota11y)
+## Resource
+[Tota11y] (https://github.com/Khan/tota11y)
 (an accessibility visualization toolkit)
 
-##Contributor:
+## Contributor
 https://github.com/kristincenters
