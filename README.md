@@ -7,7 +7,7 @@ This code was refactored to meet accessibility standards and optimized for searc
 HTML, CSS
 
 ## Resource
-[Tota11y] (https://github.com/Khan/tota11y)
+Tota11y (https://github.com/Khan/tota11y)
 (an accessibility visualization toolkit)
 
 ## Contributor
