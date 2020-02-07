@@ -32,7 +32,7 @@ p {
     display: inline-block;
     font-size: 48px;
 }
-/*improved contrast of text logo for accessibilty*/
+/*improved contrast of text logo for accessibility*/
 .header h1 .seo {
     color: #070101;
 }
